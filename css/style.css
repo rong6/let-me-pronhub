@@ -68,7 +68,7 @@ html, body {
     border-color: #9195a3;
 }
 .search-form-group input:focus {
-    border-color: #4e6ef2;
+    border-color: #ff9000;
 }
 
 .search-form-group button {
@@ -89,10 +89,10 @@ html, body {
     z-index: 1;
 }
 .search-form-group button:active {
-    background-color: #4662d9;
+    background-color: #ff9f0e;
 }
 .search-form-group button:hover {
-    background-color: #4662d9;
+    background-color: #ff9f0e;
 }
 
 .search-header {
@@ -154,7 +154,7 @@ html, body {
     word-break: break-all;
 }
 #output textarea:focus {
-    border-color: #4285f4;
+    border-color: #ff9000;
     box-shadow: 0 0 2px #4285f4;
 }
 
